@@ -1,0 +1,6 @@
+
+board: versatilepb
+cpu: ARM926EJ-S
+
+timer: SP804                           DDI0271.pdf
+interrupt controller: PL190            icu-pl190.pdf

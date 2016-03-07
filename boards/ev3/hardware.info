@@ -1,0 +1,10 @@
+
+board: da850 omapl138
+
+microprocessor: AM1808
+cpu: ARM926EJ-S
+coprocessor cp15:                      DDI0198E_arm926ejs_r0p5_trm.pdf
+
+timer:                                 am1808-1810.pdf page 1430ff
+interrupt controller:                  am1808-1810.pdf page 288ff
+memory mapping and more:               omap-l138.pdf
